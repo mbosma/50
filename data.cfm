@@ -1,117 +1,63 @@
-
 {
     "timeline":
     {
-        "headline":"CoT 50th",
+        "headline":"College of Technology 50th Anniversary Celebration",
         "type":"default",
-		"startDate":"1960,1",
-		"text":"<i><span class='c1'>Designer</span> & <span class='c2'>Developer</span></i>",
-		"asset":
-        {
-            "media":"assets/img/notes.png",
-            "credit":"<a href='http://dribbble.com/shots/221641-iOS-Icon'>iOS Icon by Asher</a>",
-            "caption":""
+        "text":"<p>Use this timeline to see where we've been and what we're doing to celebrate this year. Scroll left for upcoming events, right to see historical markers.</p><p><a href='/contact/'>Add your memories here!</a></p>",
+        "asset": {
+            "media":"http://en.wikipedia.org/wiki/Purdue_University_College_of_Technology",
+            "credit":"Wikipedia",
+            "caption":"This is our Wikipedia page"
         },
         "date": [
             {
-                "startDate":"1964,8",
-                "headline":"My first old experiment in time-lapse programming",
-                "text":"Nature at its finest in this video.",
-                "asset":
-                {
-                    "media":"http://vimeo.com/22439234",
-                    "credit":"",
-                    "caption":"This is my photo caption. Pretty photo!"
+                "startDate":"2011,5,5",
+                "endDate":"2011,5,5",
+                "headline":"College of Technology 50th Anniversary Celebration",
+                "text":"Use this timeline to see where we've been and what we're doing to celebrate this year. Scroll right for upcoming events, left to see historical markers.</p><p><a href='/contact/'>Add your memories here!</a></p>",
+                "tag":"",
+                "classname":"optionaluniqueclassnamecanbeaddedhere"
+            },
+			{
+                "startDate":"2010,12,10",
+                "endDate":"2010,12,10",
+                "headline":"DATE 2 Headline Goes Here",
+                "text":"<p>DATE 2 Body text goes here, some HTML is OK</p>",
+                "tag":"",
+                "classname":"optionaluniqueclassnamecanbeaddedhere",
+                "asset": {
+                    "media":"http://twitter.com/ArjunaSoriano/status/164181156147900416",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption text goes here"
                 }
             },
 			{
-                "startDate":"1972,2",
-                "headline":"My first experiment in time-lapse photography",
-                "text":"Nature at its finest in this video.",
-                "asset":
-                {
-                    "media":"http://vimeo.com/22439234",
-                    "credit":"",
-                    "caption":"This is my photo caption. Pretty photo!"
-                }
-            },
-            {
-                "startDate":"1976,5",
-                "headline":"Redesign of my portfolio",
-                "text":"",
-                "asset":
-                {
-                    "media":"assets/img/shots/sidebar_s3.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"1982,7",
-                "headline":"Another time-lapse experiment",
-                "text":"",
-                "asset":
-                {
-                    "media":"http://vimeo.com/23237102",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"1984,10",
-                "headline":"Developed a Gmail Client",
-                "text":"",
-                "asset":
-                {
-                    "media":"assets/img/shots/shot_1298590416.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/120088-Gmail-Pokki-Final-Ui'>by Justalab</a>",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"1992,3",
-                "headline":"Logo Design for a pet shop",
-                "text":"",
-                "asset":
-                {
-                    "media":"assets/img/shots/pet___you.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/444003-Pet-You'>by Nikita Lebedev</a>",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"1998,4",
-                "headline":"Developed an iPad newspaper application",
-                "text":"It was a challenge to create both the design and code in a week.",
-                "asset":
-                {
-                    "media":"assets/img/shots/proto_v4_decoupe_2.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/228267-Swiss-newspaper-reader-app-for-iPad-UI-UX-iOS'>by Jonathan Moreira</a>",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2000,8",
-                "headline":"Illustration for a big client.",
-                "text":"",
-                "asset":
-                {
-                    "media":"assets/img/shots/chameleon.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/366400-Chameleon'>Chameleon by Mike</a>",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2012,12",
-                "headline":"Advert for Volkswagen",
-                "text":"Created the website for their new advertising campaign.",
-                "asset":
-                {
-                    "media":"http://www.youtube.com/watch?v=0-9EYFJ4Clo",
-                    "credit":"",
-                    "caption":""
+                "startDate":"2011,12,10",
+                "endDate":"2011,12,10",
+                "headline":"DATE 1 Headline Goes Here",
+                "text":"<p>DATE 1 Body text goes here, some HTML is OK</p>",
+                "tag":"",
+                "classname":"optionaluniqueclassnamecanbeaddedhere",
+                "asset": {
+                    "media":"http://twitter.com/ArjunaSoriano/status/164181156147900416",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption text goes here"
                 }
             }
+			
+        ],
+		
+        "era": [
+            {
+                "startDate":"2009,12,9",
+                "endDate":"2011,12,11",
+                "headline":"ERA: Dean Bertoline",
+                "text":"<p>ERA text - Body text goes here, some HTML is OK</p>",
+                "tag":"ERA text tag field"
+            }
+
         ]
     }
 }
