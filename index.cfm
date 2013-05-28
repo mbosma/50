@@ -13,10 +13,9 @@
                 createStoryJS({
 					type:       'timeline',
                     width:      '100%',
-                    height:     '600',
-                    source:     'data.cfm',
-                    embed_id:   'my-timeline',
-					start_at_slide: 2
+                    height:     '500',
+                    source:     'data2.cfm',
+                    embed_id:   'my-timeline'
                 });
             });
         </script>
@@ -24,7 +23,15 @@
     </head>
     
     <body bgcolor="#fff">
-		<div class="header"><img src="assets/images/50year-technology.png" width="150" height="152" alt="CoT celebrates 50 years"></div>
+		<div class="header">
+			<ul>
+				<li><a href="#1">slide 2</a></li>
+				<li><a href="#2">slide 3</a></li>
+				<li><img src="assets/images/50year-technology.png" width="150" height="152" alt="CoT celebrates 50 years"></li>
+				<li><a href="#0">begining</a></li>
+				<li><a href="#4">end</a></li>
+			</ul>
+		</div>
 		<div id="my-timeline"></div>
     </body>
 </html>

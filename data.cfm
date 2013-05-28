@@ -11,8 +11,8 @@
         },
         "date": [
             {
-                "startDate":"2011,5,5",
-                "endDate":"2011,5,5",
+                "startDate":"2011,05,05",
+                "endDate":"2011,05,05",
                 "headline":"College of Technology 50th Anniversary Celebration",
                 "text":"Use this timeline to see where we've been and what we're doing to celebrate this year. Scroll right for upcoming events, left to see historical markers.</p><p><a href='/contact/'>Add your memories here!</a></p>",
                 "tag":"",
